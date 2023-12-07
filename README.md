@@ -50,8 +50,6 @@ As a Team, the requirements were chosen to closely mimic the process a golfer ta
 
 ### Video Demonstration
 
-Link to all videos and demonstation results can be found [here]().
-
 ##### 3ft Putt Example
 
 https://github.com/sah4jpatel/Stinger/assets/74474849/f7ba319b-9c8b-484c-8377-fc6ef48bc481
