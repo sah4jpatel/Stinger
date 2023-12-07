@@ -95,11 +95,10 @@ All videos can be found above in the demo section.
 ##### System Architecture Diagram
 ![Screenshot 2023-12-07 012651](https://github.com/sah4jpatel/Stinger/assets/74474849/0bbb14a2-e5e0-40a2-875a-2598a4263c0b)
 
-
-#### Tutorial Coming Shortly
-
 ##### Code Performance
 
 ![image](https://github.com/sah4jpatel/Stinger/assets/74474849/7747e5c0-e546-466b-acdf-7f293340aa1f)
 
+
+#### Tutorial Coming Shortly!
 
