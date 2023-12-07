@@ -4,6 +4,8 @@ Automated Mechatronic Golf Putting Robot
 ![image](https://github.com/sah4jpatel/Stinger/assets/74474849/00dbe7a5-61b4-4d86-819b-c7e02cf66a31)
 
 
+
+
 ### Introduction
 
 The STINGER Robot is a automated, self putting robot that uses off the shelf parts to distance map from a starting point and computationally processes the distance via USB camera and sets the correct voltage needed to strike the golf ball. It is autonomous and it is able to calibrate and calculate the exact distance of the flag positioning from a single camera and image processing algorithms. 
@@ -78,6 +80,13 @@ As for potential next steps, would be to further improve the vision algorithm to
 ### Project Code, Files, Etc.
 
 All code is uploaded to the github repo found [here](https://github.com/sah4jpatel/Stinger/).
+
+##### Presentation
+
+All videos can be found above in the demo section.
+
+[Project STINGER.pdf](https://github.com/sah4jpatel/Stinger/files/13606160/Project.STINGER.pdf)
+
 
 ##### State Machine Diagram
 ![Screenshot 2023-12-07 010933](https://github.com/sah4jpatel/Stinger/assets/74474849/10897037-579c-444e-bad3-ea2db21c6674)
