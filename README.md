@@ -1,6 +1,8 @@
 # Stinger
 Automated Mechatronic Golf Putting Robot
 
+![image](https://github.com/sah4jpatel/Stinger/assets/74474849/00dbe7a5-61b4-4d86-819b-c7e02cf66a31)
+
 
 ### Introduction
 
@@ -45,7 +47,21 @@ As a Team, the requirements were chosen to closely mimic the process a golfer ta
 
 Link to all videos and demonstation results can be found [here]().
 
+##### 3ft Putt Example
 
+https://github.com/sah4jpatel/Stinger/assets/74474849/f7ba319b-9c8b-484c-8377-fc6ef48bc481
+
+##### 5ft Putt Example
+
+https://github.com/sah4jpatel/Stinger/assets/74474849/026747ca-f9a3-4083-a552-05910f485f04
+
+##### Bonus Runs
+
+https://github.com/sah4jpatel/Stinger/assets/74474849/fd331261-6051-4807-b4ce-2d7f845b6a0c
+
+##### LabView Backpanel View
+
+https://github.com/sah4jpatel/Stinger/assets/74474849/d1d1d8e2-c49e-4b74-b2c9-d92f198ba5d9
 
 ### Design and Process Challenges
 
@@ -69,5 +85,8 @@ All code is uploaded to the github repo found [here](https://github.com/sah4jpat
 ##### System Architecture Diagram
 ![Screenshot 2023-12-07 012651](https://github.com/sah4jpatel/Stinger/assets/74474849/0bbb14a2-e5e0-40a2-875a-2598a4263c0b)
 
-#### Code Overview
+##### Code Performance
+
+![image](https://github.com/sah4jpatel/Stinger/assets/74474849/7747e5c0-e546-466b-acdf-7f293340aa1f)
+
 
