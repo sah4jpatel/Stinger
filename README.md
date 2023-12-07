@@ -6,6 +6,19 @@ Automated Mechatronic Golf Putting Robot
 
 The STINGER Robot is a automated, self putting robot that uses off the shelf parts to distance map from a starting point and computationally processes the distance via USB camera and sets the correct voltage needed to strike the golf ball. It is autonomous and it is able to calibrate and calculate the exact distance of the flag positioning from a single camera and image processing algorithms. 
 
+##### Parts List
+- Extrusion Rails
+- Hiwonder Mecanum Wheel Chassis Car Kit
+- 3D Print Mount 
+- myRIO 1900 Microcontroller
+- myRIO Motor Adapter
+- Arduino UNO R3
+- Jumper Cables 
+- Breadboard
+- H-Bridge Motor Driver
+- NPN Tranistor 
+- Diodes
+
 ### Table of Requirements
 
 | Requirements | Threshold |
@@ -32,6 +45,8 @@ As a Team, the requirements were chosen to closely mimic the process a golfer ta
 
 Link to all videos and demonstation results can be found [here]().
 
+
+
 ### Design and Process Challenges
 
 Some challenges that were encountered were in the actors behavior. The motor was unable to be controlled bidirectionally and therefore was required to complete one full revolution. Another significant challenge was in the physical limitations of the robot. The Car Chassis had a max payload weight of 1500g, and our system exceeded the payload weight, causing inconsistencies in the rotation and alignment stage of the robot. It was also unbalanced meaning the weight was front heavy, causing a additional instability when the swing and rotation was in motion. That caused some inconsistency in the hitting alignment of the ball. 
@@ -47,3 +62,12 @@ As for potential next steps, would be to further improve the vision algorithm to
 ### Project Code, Files, Etc.
 
 All code is uploaded to the github repo found [here](https://github.com/sah4jpatel/Stinger/).
+
+##### State Machine Diagram
+![Screenshot 2023-12-07 010933](https://github.com/sah4jpatel/Stinger/assets/74474849/10897037-579c-444e-bad3-ea2db21c6674)
+
+##### System Architecture Diagram
+![Screenshot 2023-12-07 012651](https://github.com/sah4jpatel/Stinger/assets/74474849/0bbb14a2-e5e0-40a2-875a-2598a4263c0b)
+
+#### Code Overview
+
