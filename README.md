@@ -1,6 +1,9 @@
 # Stinger
 Automated Mechatronic Golf Putting Robot
 
+
+![72368114554__00B70617-CC91-4A50-BFB9-26BB70BAC6A2](https://github.com/sah4jpatel/Stinger/assets/74474849/cbff2c89-d91f-407a-abb6-830e4ae2be0a)
+
 ![image](https://github.com/sah4jpatel/Stinger/assets/74474849/00dbe7a5-61b4-4d86-819b-c7e02cf66a31)
 
 
